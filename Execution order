@@ -1,0 +1,14 @@
+SQL statement order
+
+SELECT -> FROM -> WHERE -> GROUP BY -> HAVING -> ORDER BY
+
+SELECT
+FROM
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+
+SQL execution order
+
+FROM -> WHERE -> GROUP BY -> HAVING -> SELECT -> ORDER BY
