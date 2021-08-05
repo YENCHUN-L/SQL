@@ -1,1 +1,3 @@
+When using SQL "where not equal to" X will need to notice NULL's, might cause difference.
+COALESCE function can change NULL to values blanks..etc, to avoid missing data when using "where not equal to".
 https://docs.microsoft.com/zh-tw/sql/t-sql/language-elements/coalesce-transact-sql?view=sql-server-ver15
